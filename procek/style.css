@@ -19,3 +19,10 @@ p{
 #amd{
     color: #F22;
 }
+
+img{
+    width: 20%;
+    padding: 1em;
+    border: 1px dashed #000;
+    margin: 2em;
+}
