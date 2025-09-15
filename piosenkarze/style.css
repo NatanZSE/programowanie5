@@ -1,0 +1,17 @@
+/* 
+#t{
+    width: 576px;
+    margin: 50px;
+}
+
+#b{
+    width: 576px;
+    margin: 5px;
+}
+*/
+img{
+    width: 576px;
+    padding: 5px;
+    border: 4px;
+    margin: 15px;
+}
