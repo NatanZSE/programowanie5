@@ -1,0 +1,21 @@
+body{
+    font-size: 1.5em;
+    font-family: 'Courier New';
+}
+
+input, select{
+    font-size: 1em;
+    font-family: 'Courier New';
+}
+
+p{
+    font-size: 1.7em;
+}
+
+#int{
+    color: #06B;
+}
+
+#amd{
+    color: #F22;
+}
