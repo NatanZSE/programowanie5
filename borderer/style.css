@@ -1,0 +1,60 @@
+img{
+    width: 30%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#one{
+    border: 1em solid black;
+    border-radius: 3em;
+    box-shadow: 0.25em 0.5em 0.75em gray;
+}
+
+#two{
+    border: 2em double green;
+    border-radius: 5em;
+    box-shadow: 0.5em 0.75em 1em lime;
+}
+
+#three{
+    border: 3em dotted pink;
+    border-radius: 7em;
+    box-shadow: 0.75em 1em 1.25em purple;
+}
+
+#four{
+    border: 1.5em groove blue;
+    border-radius: 3em;
+    box-shadow: 1em 1.25em 1.5em cyan;
+}
+
+#five{
+    border: 0.5em inset red;
+    border-radius: 4em;
+    box-shadow: 1.25em 1.5em 1.75em orange;
+}
+
+#six{
+    border: 2.5em dashed lightblue;
+    border-radius: 3em;
+    box-shadow: 1.5em 1.75em 2em blue;
+}
+
+#seven{
+    border: 7em solid lightgrey;
+    border-radius: 21em;
+    box-shadow: 1.75em 2em 2.25em black;
+}
+
+#eight{
+    border: 0.5em dotted purple;
+    border-radius: 1em;
+    box-shadow: 2em 2.25em 2.5em pink;
+}
+
+#nine{
+    border: 5em ridge cyan;
+    border-radius: 15em;
+    box-shadow: 2.25em 2.5em 2.75em teal;
+}
