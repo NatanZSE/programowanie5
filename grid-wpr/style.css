@@ -1,0 +1,12 @@
+div#main{
+    font-family: 'Courier New';
+    font-size: 1em;
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-rows: 20% 20% 20% 20% 20%;
+    border: 0.25em solid black;
+}
+
+div{
+    border: 0.25em solid black;
+}
